@@ -1,3 +1,5 @@
-# PostgreSQL connection app with c++
+# Cloud Development lesson 01
 
-## Cloud Development lesson - 01
+## PostgreSQL connection app with c++
+
+
